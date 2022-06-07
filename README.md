@@ -45,12 +45,31 @@ Device Specific:
 * Kernel upstreamed to 4.14.276.
 * Massive performance improvements.
 
+### Release 4
+* June Security Patch (android-12.1.0_r8)
+* New default wallaper (alternates with light and dark mode)
+* Improved keyboard theming
+* Add lockscreen shortcuts
+* Reduce volume panel animation durations
+* Switched to [Bromite Browser](https://www.bromite.org/) (dropped Chromium)
+* Add Lawnchair launcher
+
+Device Specific:
+* Enabled NFC only on Global variants
+* Fix some audio properties
+* Fixed fingerprint for devices with Goodix fingerprint
+* Added back few thermal blobs
+* Set readahead to 128kb for system and data
+* Resolve some IMS bugs
+* Switch to 64bit powerhal
+* Drop some power test blobs
+* Improve the interaction powerhint for better UX
+* Switched to dtbless kernel
+* Fixed in-call audio for earpiece
+
 ## Screenshots
 ### Screenshots are from AOSP on Cannon Release 4
 ![Light Mode 1](https://user-images.githubusercontent.com/19572065/172359451-32e117d3-8a48-4794-bcb0-bfd40c570d80.png)
 ![Light Mode 2](https://user-images.githubusercontent.com/19572065/172359500-09cb962e-5e2c-478e-a995-857092b9a68b.png)
 ![Dark Mode 1](https://user-images.githubusercontent.com/19572065/172359519-e74950e4-8392-44cc-a216-cd3bdec4a0e7.png)
 ![Dark Mode 2](https://user-images.githubusercontent.com/19572065/172359534-b27befb4-9d21-4a3b-8b9d-122ab71657fe.png)
-
-
-
