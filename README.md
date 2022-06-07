@@ -46,6 +46,11 @@ Device Specific:
 * Massive performance improvements.
 
 ## Screenshots
-### Screenshots are from AOSP on Cannon Release 1
-![Screenshot Combo 1](.assets/Screenshots-1.png) 
-![Screenshot Combo 2](.assets/Screenshots-2.png)
+### Screenshots are from AOSP on Cannon Release 4
+![Light Mode 1](https://user-images.githubusercontent.com/19572065/172359451-32e117d3-8a48-4794-bcb0-bfd40c570d80.png)
+![Light Mode 2](https://user-images.githubusercontent.com/19572065/172359500-09cb962e-5e2c-478e-a995-857092b9a68b.png)
+![Dark Mode 1](https://user-images.githubusercontent.com/19572065/172359519-e74950e4-8392-44cc-a216-cd3bdec4a0e7.png)
+![Dark Mode 2](https://user-images.githubusercontent.com/19572065/172359534-b27befb4-9d21-4a3b-8b9d-122ab71657fe.png)
+
+
+
