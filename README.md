@@ -17,7 +17,7 @@ Download AOSP on Cannon from here!
 * Double tap to sleep on Launcher
 
 ### Release 2
-* Android 12.1.0_r4 (April 2022 Security Patch)
+* [Android 12.1.0_r4 (April 2022 Security Patch)](https://source.android.com/security/bulletin/2022-04-01)
 * Fixed WebView issues
 * Fixed inter font weights
 * Enable Microphone and Camera disabling Quick toggles
@@ -36,7 +36,7 @@ Device Specific:
 * Kernel upstreamed to Linux LTS release (4.14.275).
 
 ### Release 3
-* May Security Patch.
+* [May Security Patch](https://source.android.com/security/bulletin/2022-05-01)
 
 Device Specific:
 * Fixed all crashing issues on Chinese variants.
@@ -46,7 +46,7 @@ Device Specific:
 * Massive performance improvements.
 
 ### Release 4
-* June Security Patch (android-12.1.0_r8)
+* [June Security Patch (android-12.1.0_r8)](https://source.android.com/security/bulletin/2022-06-01)
 * New default wallaper (alternates with light and dark mode)
 * Improved keyboard theming
 * Add lockscreen shortcuts
@@ -66,6 +66,13 @@ Device Specific:
 * Improve the interaction powerhint for better UX
 * Switched to dtbless kernel
 * Fixed in-call audio for earpiece
+
+### Release 5
+Changelog:
+* [July Security Patch (android-12.1.0_r11)](https://source.android.com/security/bulletin/2022-07-01)
+
+Device Specific:
+* No changes
 
 ## Screenshots
 ### Screenshots are from AOSP on Cannon Release 4
